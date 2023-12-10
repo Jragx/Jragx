@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Peter.</h1>
+<h3 align="center"> ¡Hey👋! Hola! Soy Jrag.</h1>
 
 <!--
 **Jragx/Jragx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
