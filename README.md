@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!-- Language and Tools -->
 
 <h3 align="left">Tecnologías conocidas</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm) ] (https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 
 
