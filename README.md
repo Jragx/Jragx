@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Tecnologías conocidas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vite,vscode&theme=dark)](https://skillicons.dev)
   
 
 
